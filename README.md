@@ -10,7 +10,7 @@ You're going to need a [STUN server](https://www.google.com/search?q=public+stun
 
 Then go to this url:
 
-https://richardanaya.github.io/gundb_webrtc/?stun=<MY_STUN_SERVER.COM>
+https://richardanaya.github.io/gundb_webrtc/?stun=stun.l.my_public_stun_server.com:19302
 
 
 Note: GunDB can be VERY slow.
