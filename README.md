@@ -14,3 +14,4 @@ https://richardanaya.github.io/gundb_webrtc/?stun=stun.l.my_public_stun_server.c
 
 
 Note: GunDB can be VERY slow. Once you hand the link to someone else, it might take up to a minute for both sides to get updates if it's a bad day.
+Note2: According to Google STUN works for like 86% of people's networking situation. I haven't implemented TURN yet for this demo.
