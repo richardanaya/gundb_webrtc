@@ -8,7 +8,7 @@ How's this work.  I used GunDB (a distributed key value store) to act like a bi-
 
 You're going to need a [STUN server](https://www.google.com/search?q=public+stun+server+webrtc) first.
 
-Then go to this URL (replace `stun` query string with your STUN's url):
+Then go to this URL (replace `stun` query string with your STUN's URL):
 
 https://richardanaya.github.io/gundb_webrtc/?stun=stun.l.my_public_stun_server.com:19302
 
