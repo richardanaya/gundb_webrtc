@@ -13,3 +13,4 @@ Then go to this url:
 https://richardanaya.github.io/gundb_webrtc/?stun=<MY_STUN_SERVER.COM>
 
 
+Note: GunDB can be VERY slow.
