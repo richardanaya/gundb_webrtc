@@ -10,6 +10,6 @@ You're going to need a STUN server first.
 
 Then go to this url:
 
-![](https://richardanaya.github.io/gundb_webrtc/?stun=MY_STUN_SERVER.com)
+https://richardanaya.github.io/gundb_webrtc/?stun=MY_STUN_SERVER.com
 
 
