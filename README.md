@@ -10,7 +10,7 @@ You're going to need a [STUN server](https://www.google.com/search?q=public+stun
 
 Then go to this URL (replace `stun` query string with your STUN's URL):
 
-https://richardanaya.github.io/gundb_webrtc/?stun=stun.l.my_public_stun_server.com:19302
+https://richardanaya.github.io/gundb_webrtc/?gundb=gunjs.herokuapp.com&stun=stun.l.my_public_stun_server.com:19302
 
 
 Note: GunDB can be VERY slow. Once you hand the link to someone else, it might take up to a minute for both sides to get updates if it's a bad day.
